@@ -11,5 +11,4 @@ export class ExperienceCard {
   $title = input.required<string>();
   $description = input.required<string>();
   $skills = input.required<string[]>();
-
 }
