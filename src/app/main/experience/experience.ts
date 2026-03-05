@@ -14,7 +14,7 @@ export class Experience {
     description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
     skills: ['JavaScript', 'Angular', 'TypeScript'],
   };
- 
+
   protected nyxExperience = {
     yearsOfExperience: '2021 - 2022',
     title: 'Frontend Developer',

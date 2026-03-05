@@ -6,7 +6,7 @@ import { Intro } from './intro/intro';
   selector: 'app-root',
   imports: [Main, Intro],
   templateUrl: './app.html',
-  styleUrl: './app.css'
+  styleUrl: './app.css',
 })
 export class App {
   protected readonly title = signal('portfolio');
